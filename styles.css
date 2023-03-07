@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.joinBtn {
+    width: 7em;
+    height: 5ex;
+    background-color:black ;
+/*     border: 2px solid firebrick; */
+    border-radius: 5px;
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+}
+
+.joinBtn:hover {
+    background-color: yellow;
+	 border-radius: 30px;
+	color : black;
+}
